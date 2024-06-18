@@ -23,3 +23,7 @@ List of topics to work on
 - selling physical stuff
 - importing stuff
 - exporting stuff
+- keeping a visa while founding a company
+- selling to the government
+- becoming GDPR compliant
+- becomeing ISO27001 complaint
