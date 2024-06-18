@@ -9,9 +9,9 @@ Let me know if you want to contribute.
 List of topics to work on
 - found a company
 - file taxes
-- your first invoice
+- invoicing sb
 - get rid of a company
-- holding
+- managing your holding company
 - US-german constructs
 - raising a round
 - patent stuff
@@ -19,3 +19,7 @@ List of topics to work on
 - transfer IP
 - employ sb
 - fire sb
+- get public funding
+- selling physical stuff
+- importing stuff
+- exporting stuff
